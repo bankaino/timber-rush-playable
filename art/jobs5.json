@@ -1,0 +1,4 @@
+[
+ {"name": "trailer", "prompt": "art/prompts/trailer.txt", "size": "1024x1024", "alpha": "auto", "ref": ["art/gen/harvester_body.png=design reference: same machine family, colours, tyres and plan-view camera"]},
+ {"name": "mascot", "prompt": "art/prompts/mascot.txt", "size": "1024x1024", "alpha": "auto"}
+]

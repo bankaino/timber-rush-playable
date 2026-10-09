@@ -1,0 +1,7 @@
+[
+ {"name": "ground_tex", "prompt": "ground_tex.txt", "size": "1024x1024", "alpha": "none", "ref": ["study/crops/ground.png=material reference: match this forest-floor colour and dot density"]},
+ {"name": "tree_sheet", "prompt": "tree_sheet.txt", "size": "1536x1024", "alpha": "auto", "ref": ["study/crops/forest.png=design reference: match these pine shapes, greens and facet style"]},
+ {"name": "harvester_body", "prompt": "harvester_body.txt", "size": "1024x1536", "alpha": "auto", "ref": ["study/crops/harvester.png=design reference: match this machine's colours and chunky low-poly design"]},
+ {"name": "trailer", "prompt": "trailer.txt", "size": "1024x1536", "alpha": "auto", "ref": ["study/crops/trailers.png=design reference: match these trailers' colours and design"]},
+ {"name": "props_sheet", "prompt": "props_sheet.txt", "size": "1536x1024", "alpha": "auto"}
+]

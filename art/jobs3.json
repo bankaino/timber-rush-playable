@@ -1,0 +1,5 @@
+[
+ {"name": "harvester_body", "prompt": "art/prompts/harvester_body.txt", "size": "1024x1536", "alpha": "auto", "ref": ["art/gen/trailer.png=design reference only for colours and low-poly detailing; ignore its camera angle"]},
+ {"name": "tree_sheet", "prompt": "art/prompts/tree_sheet.txt", "size": "1536x1024", "alpha": "auto", "ref": ["study/crops/forest.png=design reference: match these pine shapes, greens and facet style"]},
+ {"name": "props_sheet", "prompt": "art/prompts/props_sheet.txt", "size": "1536x1024", "alpha": "auto"}
+]

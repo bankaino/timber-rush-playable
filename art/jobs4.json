@@ -1,0 +1,4 @@
+[
+ {"name": "rival_body", "prompt": "art/prompts/rival_body.txt", "size": "1024x1536", "alpha": "auto", "ref": ["art/gen/harvester_body.png=edit target: the same machine to recolour"]},
+ {"name": "hand", "prompt": "art/prompts/hand.txt", "size": "1024x1024", "alpha": "auto"}
+]

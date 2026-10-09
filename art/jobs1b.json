@@ -1,0 +1,17 @@
+[
+ {
+  "name": "tree_sheet",
+  "prompt": "tree_sheet.txt",
+  "size": "1536x1024",
+  "alpha": "auto",
+  "ref": [
+   "study/crops/forest.png=design reference: match these pine shapes, greens and facet style"
+  ]
+ },
+ {
+  "name": "props_sheet",
+  "prompt": "props_sheet.txt",
+  "size": "1536x1024",
+  "alpha": "auto"
+ }
+]
