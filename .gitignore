@@ -1,0 +1,21 @@
+# third-party reference material (someone else's ad): kept local, never published
+ref.png
+study/ref/
+study/crops/
+study/tiles/
+study/critique/frame_r1/
+study/critique/measure/shots/
+study/*.png
+study/study.json
+study/palette.json
+# raw generator output, logs, superseded art, scratch renders, builds (docs/ holds the published demo)
+art/raw/
+art/logs/
+art/old/
+art/placeholder/
+art/*.resolved.json
+frames/
+dist/
+node_modules/
+__pycache__/
+*.log
